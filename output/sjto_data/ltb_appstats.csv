@@ -1,0 +1,265 @@
+year	applicant	casetype	appdesc	t0	t1	t2	t0_total	t1_total	t2_total
+2010_2011_	tenant	A1	Determine Whether the Act Applies	30	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	A2	Sublet or Assignment	49	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	A3	Combined Application	1224	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	A4	Vary Rent Reduction Amount	0	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	T1	Rent Rebate (e.g. illegal rent)	520	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	T2	Tenant Rights	3587	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	T3	Rent Reduction	43	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	T4	Failed Rent Increase Above Guideline	1	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	T5	Bad Faith Notice of Termination	128	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	T6	Maintenance	1171	N/A	N/A	6754	N/A	N/A
+2010_2011_	tenant	T7	Suite Meters	1	N/A	N/A	6754	N/A	N/A
+2010_2011_	landlord	A1	Determine Whether the Act Applies	48	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	A2	Sublet or Assignment	199	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	A3	Combined Application (usually includes an L1)	3066	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	A4	Vary Rent Reduction Amount	182	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L1	Terminate & Evict for Non-Payment of Rent	53182	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L2	Terminate for Other Reasons & Evict	6158	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L3	Termination - Tenant Gave Notice or Agreed	1075	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L4	Terminate the Tenancy - Failed Settlement	4805	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L5	Rent Increase Above the Guideline	391	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L6	Review of Provincial Work Order	7	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L7	Transfer Tenant to Care Home	1	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L8	Tenant Changed Locks	26	N/A	N/A	70639	N/A	N/A
+2010_2011_	landlord	L9	Application to Collect Rent	1499	N/A	N/A	70639	N/A	N/A
+2011_2012_	tenant	A1	Determine Whether the Act Applies	36 (0.51%)	30 (0.44%)	33 (0.49%)	7125	6755	6685
+2011_2012_	tenant	A2	Sublet or Assignment	57 (0.80%)	49 (0.73%)	43 (0.64%)	7125	6755	6685
+2011_2012_	tenant	A3	Combined Application	1,435 (20.14%)	1,224 (18.12%)	1,141 (17.07%)	7125	6755	6685
+2011_2012_	tenant	A4	Vary Rent Reduction Amount	1 (0.01%)	0 (0.00%)	2 (0.03%)	7125	6755	6685
+2011_2012_	tenant	T1	Rent Rebate (e.g. illegal rent)	578 (8.11%)	520 (7.70%)	574 (8.59%)	7125	6755	6685
+2011_2012_	tenant	T2	Tenant Rights	3,548 (49.80%)	3,587 (53.10%)	3,517 (52.61%)	7125	6755	6685
+2011_2012_	tenant	T3	Rent Reduction	65 (0.91%)	43 (0.64%)	43 (0.64%)	7125	6755	6685
+2011_2012_	tenant	T4	Failed Rent Increase Above Guideline	1 (0.01%)	1 (0.01%)	2 (0.03%)	7125	6755	6685
+2011_2012_	tenant	T5	Bad Faith Notice of Termination	139 (1.95%)	128 (1.89%)	115 (1.72%)	7125	6755	6685
+2011_2012_	tenant	T6	Maintenance	1,264 (17.74%)	1,171 (17.34%)	1,215 (18.18%)	7125	6755	6685
+2011_2012_	tenant	T7	Suite Meters	1 (0.01%)	2 (0.03%)	N/A	7125	6755	6685
+2011_2012_	landlord	A1	Determine Whether the Act Applies	50 (0.07%)	48 (0.07%)	49 (0.07%)	73959	70639	71387
+2011_2012_	landlord	A2	Sublet or Assignment	234 (0.32%)	199 (0.28%)	153 (0.21%)	73959	70639	71387
+2011_2012_	landlord	A3	Combined Application (usually includes an L1)	3,736 (5.05%)	3,066 (4.34%)	2,796 (3.92%)	73959	70639	71387
+2011_2012_	landlord	A4	Vary Rent Reduction Amount	106 (0.14%)	182 (0.26%)	275 (0.39%)	73959	70639	71387
+2011_2012_	landlord	L1	Terminate & Evict for Non-Payment of Rent	54,847 (74.16%)	53,182 (75.29%)	54,109 (75.80%)	73959	70639	71387
+2011_2012_	landlord	L2	Terminate for Other Reasons & Evict	6,867 (9.28%)	6,158 (8.72%)	5,628 (7.88%)	73959	70639	71387
+2011_2012_	landlord	L3	Termination - Tenant Gave Notice or Agreed	1,263 (1.71%)	1,075 (1.52%)	991 (1.39%)	73959	70639	71387
+2011_2012_	landlord	L4	Terminate the Tenancy - Failed Settlement	4,905 (6.63%)	4,805 (6.80%)	5,301 (7.43%)	73959	70639	71387
+2011_2012_	landlord	L5	Rent Increase Above the Guideline	252 (0.34%)	391 (0.55%)	294 (0.41%)	73959	70639	71387
+2011_2012_	landlord	L6	Review of Provincial Work Order	13 (0.02%)	7 (0.01%)	12(0.02%)	73959	70639	71387
+2011_2012_	landlord	L7	Transfer Tenant to Care Home	1 (0.00%)	1 (0.00%)	3 (0.00%)	73959	70639	71387
+2011_2012_	landlord	L8	Tenant Changed Locks	21 (0.03%)	26 (0.04%)	22 (0.03%)	73959	70639	71387
+2011_2012_	landlord	L9	Application to Collect Rent	1,664 (2.25%)	1,499 (2.12%)	1,754 (2.46%)	73959	70639	71387
+2012_2013_	landlord	A1	Determine Whether the Act Applies	62 (0.08%)	50 (0.07%)	48 (0.07%)	75069	73959	70639
+2012_2013_	landlord	A2	Sublet or Assignment	237 (0.32%)	234 (0.32%)	199 (0.28%)	75069	73959	70639
+2012_2013_	landlord	A3	Combined Application (usually includes an L1)	3,936 (5.24%)	3,736 (5.05%)	3,066 (4.34%)	75069	73959	70639
+2012_2013_	landlord	A4	Vary Rent Reduction Amount	209 (0.28%)	106 (0.14%)	182 (0.26%)	75069	73959	70639
+2012_2013_	landlord	L1	Terminate & Evict for Non-Payment of Rent	54,777 (72.97%)	54,847 (74.16%)	53,182 (75.29%)	75069	73959	70639
+2012_2013_	landlord	L2	Terminate for Other Reasons & Evict	7,102 (9.46%)	6,867 (9.28%)	6,158 (8.72%)	75069	73959	70639
+2012_2013_	landlord	L3	Termination – Tenant Gave Notice or Agreed	1,225 (1.63%)	1,263 (1.71%)	1,075 (1.52%)	75069	73959	70639
+2012_2013_	landlord	L4	Terminate the Tenancy – Failed Settlement	5,549 (7.39%)	4,905 (6.63%)	4,805 (6.80%)	75069	73959	70639
+2012_2013_	landlord	L5	Rent Increase Above the Guideline	296 (0.39%)	252 (0.34%)	391 (0.55%)	75069	73959	70639
+2012_2013_	landlord	L6	Review of Provincial Work Order	11 (0.01%)	13 (0.02%)	7 (0.01%)	75069	73959	70639
+2012_2013_	landlord	L7	Transfer Tenant to Care Home	0 (0.00%)	1 (0.00%)	1 (0.00%)	75069	73959	70639
+2012_2013_	landlord	L8	Tenant Changed Locks	45 (0.06%)	21 (0.03%)	26 (0.04%)	75069	73959	70639
+2012_2013_	landlord	L9	Application to Collect Rent	1,620 (2.15%)	1,664 (2.25%)	1,499 (2.12%)	75069	73959	70639
+2012_2013_	tenant	A1	Determine Whether the Act Applies	30 (0.42%)	36 (0.51%)	30 (0.44%)	7123	7125	6755
+2012_2013_	tenant	A2	Sublet or Assignment	45 (0.63%)	57 (0.80%)	49 (0.73%)	7123	7125	6755
+2012_2013_	tenant	A3	Combined Application	1,342 (18.84%)	1,435 (20.14%)	1,224 (18.12%)	7123	7125	6755
+2012_2013_	tenant	A4	Vary Rent Reduction Amount	1 (0.01%)	1 (0.01%)	0 (0.00%)	7123	7125	6755
+2012_2013_	tenant	T1	Rent Rebate (e.g. illegal rent)	618 (8.68%)	578 (8.11%)	520 (7.70%)	7123	7125	6755
+2012_2013_	tenant	T2	Tenant Rights	3,676 (51.61%)	3,548 (49.80%)	3,587 (53.10%)	7123	7125	6755
+2012_2013_	tenant	T3	Rent Reduction	58 (0.81%)	65 (0.91%)	43 (0.64%)	7123	7125	6755
+2012_2013_	tenant	T4	Failed Rent Increase Above Guideline	1 (0.01%)	1 (0.01%)	1 (0.01%)	7123	7125	6755
+2012_2013_	tenant	T5	Bad Faith Notice of Termination	152 (2.13%)	139 (1.95%)	128 (1.89%)	7123	7125	6755
+2012_2013_	tenant	T6	Maintenance	1,198 (16.82%)	1,264 (17.74%)	1,171 (17.34%)	7123	7125	6755
+2012_2013_	tenant	T7	Suite Meters	2 (0.03%)	1 (0.01%)	2 (0.03%)	7123	7125	6755
+2013_2014_	landlord	A1	Determine Whether the Act Applies	69 (0.1%)	62 (0.1%)	50 (0.1%)	74197	75069	73959
+2013_2014_	landlord	A2	Sublet or Assignment	241 (0.3%)	237 (0.3%)	234 (0.3%)	74197	75069	73959
+2013_2014_	landlord	A3	Combined Application (usually includes an L1)	4,209 (5.7%)	3,936 (5.2%)	3,736 (5.1%)	74197	75069	73959
+2013_2014_	landlord	A4	Vary Rent Reduction Amount	134 (0.2%)	209 (0.3%)	106 (0.1%)	74197	75069	73959
+2013_2014_	landlord	L1	Terminate & Evict for Non-Payment of Rent	52,832 (71.2%)	54,777 (73.0%)	54,847 (74.2%)	74197	75069	73959
+2013_2014_	landlord	L2	Terminate for Other Reasons & Evict	7,312 (9.9%)	7,102 (9.5%)	6,867 (9.3%)	74197	75069	73959
+2013_2014_	landlord	L3	Termination - Tenant Gave Notice or Agreed	1,179 (1.6%)	1,225 (1.6%)	1,263 (1.7%)	74197	75069	73959
+2013_2014_	landlord	L4	Terminate the Tenancy - Failed Settlement	5,955 (8.0%)	5,549 (7.4%)	4,905 (6.6%)	74197	75069	73959
+2013_2014_	landlord	L5	Rent Increase Above the Guideline	438 (0.6%)	296 (0.4%)	252 (0.3%)	74197	75069	73959
+2013_2014_	landlord	L6	Review of Provincial Work Order	3 (0.0%)	11 (0.0%)	13 (0.0%)	74197	75069	73959
+2013_2014_	landlord	L7	Transfer Tenant to Care Home	4 (0.0%)	0 (0.0%)	1 (0.0%)	74197	75069	73959
+2013_2014_	landlord	L8	Tenant Changed Locks	21 (0.0%)	45 (0.0%)	21 (0.0%)	74197	75069	73959
+2013_2014_	landlord	L9	Application to Collect Rent	1,800 (2.4%)	1,620 (2.2%)	1,664 (2.3%)	74197	75069	73959
+2013_2014_	tenant	A1	Determine Whether the Act Applies	23 (0.3%)	30 (0.4%)	36 (0.5%)	7551	7123	7125
+2013_2014_	tenant	A2	Sublet or Assignment	46 (0.6%)	45 (0.6%)	57 (0.8%)	7551	7123	7125
+2013_2014_	tenant	A3	Combined Application	1,680 (22.3%)	1,342 (18.9%)	1,435 (20.2%)	7551	7123	7125
+2013_2014_	tenant	A4	Vary Rent Reduction Amount	1 (0.0%)	1 (0.0%)	1 (0.0%)	7551	7123	7125
+2013_2014_	tenant	T1	Rent Rebate (e.g. illegal rent)	663 (8.8%)	618 (8.7%)	578 (8.1%)	7551	7123	7125
+2013_2014_	tenant	T2	Tenant Rights	3,600 (47.7%)	3,676 (51.6%)	3,548 (49.8%)	7551	7123	7125
+2013_2014_	tenant	T3	Rent Reduction	51 (0.7%)	58 (0.8%)	65 (0.9%)	7551	7123	7125
+2013_2014_	tenant	T4	Failed Rent Increase Above Guideline	4 (0.0%)	1 (0.0%)	1 (0.0%)	7551	7123	7125
+2013_2014_	tenant	T5	Bad Faith Notice of Termination	156 (2.1%)	152 (2.2%)	139 (2.0%)	7551	7123	7125
+2013_2014_	tenant	T6	Maintenance	1,318 (17.5%)	1,198 (16.8%)	1,264 (17.7%)	7551	7123	7125
+2013_2014_	tenant	T7	Suite Meters	9 (0.0%)	2 (0.0%)	1 (0.0%)	7551	7123	7125
+2014_2015_	landlord	A1	Determine Whether the Act Applies	55 (0.1%)	69 (0.1%)	62 (0.1%)	71575	74197	75069
+2014_2015_	landlord	A2	Sublet or Assignment	263 (0.4%)	241 (0.3%)	237 (0.3%)	71575	74197	75069
+2014_2015_	landlord	A3	Combined Application (usually includes an L1)	3,986 (5.6%)	4,209 (5.7%)	3,936 (5.2%)	71575	74197	75069
+2014_2015_	landlord	A4	Vary Rent Reduction Amount	135 (0.2%)	134 (0.2%)	209 (0.3%)	71575	74197	75069
+2014_2015_	landlord	L1	Terminate & Evict for Non-Payment of Rent	49,991 (70.0%)	52,832 (71.2%)	54,777 (73.0%)	71575	74197	75069
+2014_2015_	landlord	L2	Terminate for Other Reasons & Evict	7,983 (11.2%)	7,132 (9.9%)	7,102 (9.5%)	71575	74197	75069
+2014_2015_	landlord	L3	Termination - Tenant Gave Notice or Agreed	1,208 (1.7%)	1,179 (1.6%)	1,225 (1.6%)	71575	74197	75069
+2014_2015_	landlord	L4	Terminate the Tenancy - Failed Settlement	5,632 (7.9%)	5,955 (8.0%)	5,549 (7.4%)	71575	74197	75069
+2014_2015_	landlord	L5	Rent Increase Above the Guideline	548 (0.8%)	438 (0.6%)	296 (0.4%)	71575	74197	75069
+2014_2015_	landlord	L6	Review of Provincial Work Order	8 (0.0%)	3 (0.0%)	11 (0.00%)	71575	74197	75069
+2014_2015_	landlord	L7	Transfer Tenant to Care Home	0 (0.0%)	4 (0.0%)	0 (0.00%)	71575	74197	75069
+2014_2015_	landlord	L8	Tenant Changed Locks	31 (0.0%)	21 (0.0%)	45 (0.00%)	71575	74197	75069
+2014_2015_	landlord	L9	Application to Collect Rent	1,735 (2.4%)	1,800 (2.4%)	1,620 (2.2%)	71575	74197	75069
+2014_2015_	tenant	A1	Determine Whether the Act Applies	59 (0.7%)	23 (0.3%)	30 (0.4%)	7957	7551	7123
+2014_2015_	tenant	A2	Sublet or Assignment	55 (0.7%)	46 (0.6%)	45 (0.6%)	7957	7551	7123
+2014_2015_	tenant	A3	Combined Application	1,921 (24.1%)	1,680 (22.3%)	1,342 (18.8%)	7957	7551	7123
+2014_2015_	tenant	A4	Vary Rent Reduction Amount	0 (0.0%)	1 (0.0%)	1 (0.01%)	7957	7551	7123
+2014_2015_	tenant	T1	Rent Rebate (e.g. illegal rent)	716 (9.0%)	663 (8.8%)	618 (8.7%)	7957	7551	7123
+2014_2015_	tenant	T2	Tenant Rights	3,441 (43.2%)	3,441 (43.2%)	3,676 (51.6%)	7957	7551	7123
+2014_2015_	tenant	T3	Rent Reduction	69 (0.9%)	51 (0.7%)	58 (0.8%)	7957	7551	7123
+2014_2015_	tenant	T4	Failed Rent Increase Above Guideline	1 (0.0%)	4 (0.0%)	1 (0.01%)	7957	7551	7123
+2014_2015_	tenant	T5	Bad Faith Notice of Termination	170 (2.1%)	156 (2.1%)	152 (2.1%)	7957	7551	7123
+2014_2015_	tenant	T6	Maintenance	1,516 (19.1%)	1,318 (17.5%)	1,198 (16.8%)	7957	7551	7123
+2014_2015_	tenant	T7	Suite Meters	9 (0.0%)	9 (0.0%)	2 (0.03%)	7957	7551	7123
+2015_2016_	landlord	A1	Determine Whether the Act Applies	67 (0.1%)	55 (0.1%)	69 (0.1%)	71514	71575	74197
+2015_2016_	landlord	A2	Sublet or Assignment	234 (0.3%)	263 (0.4%)	241 (0.3%)	71514	71575	74197
+2015_2016_	landlord	A3	Combined Application (usually includes an L1)	4,050 (5.7%)	3,986 (5.6%)	4,209 (5.7%)	71514	71575	74197
+2015_2016_	landlord	A4	Vary Rent Reduction Amount	76 (0.1%)	135 (0.2%)	134 (0.2%)	71514	71575	74197
+2015_2016_	landlord	L1	Terminate & Evict for Non-Payment of Rent	48,940 (68.4%)	49,991 (70.0%)	52,832 (71.2%)	71514	71575	74197
+2015_2016_	landlord	L2	Terminate for Other Reasons & Evict	8,876 (12.4%)	7,983 (11.2%)	7,132 (9.9%)	71514	71575	74197
+2015_2016_	landlord	L3	Termination - Tenant Gave Notice or Agreed	1,338 (1.9%)	1,208 (1.7%)	1,179 (1.6%)	71514	71575	74197
+2015_2016_	landlord	L4	Terminate the Tenancy - Failed Settlement	5,559 (7.8%)	5,632 (7.9%)	5,955 (8.0%)	71514	71575	74197
+2015_2016_	landlord	L5	Rent Increase Above the Guideline	433 (0.6%)	548 (0.8%)	438 (0.6%)	71514	71575	74197
+2015_2016_	landlord	L6	Review of Provincial Work Order	15 (0.0%)	8 (0.0%)	3 (0.0%)	71514	71575	74197
+2015_2016_	landlord	L7	Transfer Tenant to Care Home	6 (0.0%)	0 (0.0%)	4 (0.0%)	71514	71575	74197
+2015_2016_	landlord	L8	Tenant Changed Locks	28 (0.0%)	31 (0.0%)	21 (0.0%)	71514	71575	74197
+2015_2016_	landlord	L9	Application to Collect Rent	1,892 (2.6%)	1,735 (2.4%)	1,800 (2.4%)	71514	71575	74197
+2015_2016_	tenant	A1	Determine Whether the Act Applies	64 (0.8%)	59 (0.7%)	23 (0.3%)	8228	7957	7551
+2015_2016_	tenant	A2	Sublet or Assignment	68 (0.8%)	55 (0.7%)	46 (0.6%)	8228	7957	7551
+2015_2016_	tenant	A3	Combined Application	1,586 (19.3%)	1,921 (24.1%)	1,680 (22.3%)	8228	7957	7551
+2015_2016_	tenant	A4	Vary Rent Reduction Amount	0 (0.0%)	0 (0.0%)	1 (0.0%)	8228	7957	7551
+2015_2016_	tenant	T1	Rent Rebate (e.g. illegal rent)	663 (8.1%)	716 (9.0%)	663 (8.8%)	8228	7957	7551
+2015_2016_	tenant	T2	Tenant Rights	3,922 (47.7%)	3,441 (43.2%)	3,441 (43.2%)	8228	7957	7551
+2015_2016_	tenant	T3	Rent Reduction	67 (0.8%)	69 (0.9%)	51 (0.7%)	8228	7957	7551
+2015_2016_	tenant	T4	Failed Rent Increase Above Guideline	0 (0.0%)	1 (0.0%)	4 (0.0%)	8228	7957	7551
+2015_2016_	tenant	T5	Bad Faith Notice of Termination	174 (2.1%)	170 (2.1%)	156 (2.1%)	8228	7957	7551
+2015_2016_	tenant	T6	Maintenance	1,661 (20.2%)	1,516 (19.1%)	1,318 (17.5%)	8228	7957	7551
+2015_2016_	tenant	T7	Suite Meters	23 (0.3%)	9 (0.0%)	9 (0.0%)	8228	7957	7551
+2016_2017_	landlord	A1	Determine Whether the Act Applies	104 (0.1%)	67 (0.1%)	55 (0.1%)	73188	71514	71575
+2016_2017_	landlord	A2	Sublet or Assignment	264 (0.3%)	234 (0.3%)	263 (0.4%)	73188	71514	71575
+2016_2017_	landlord	A3	Combined Application (usually includes an L1)	4,067 (5.6%)	4,050 (5.7%)	3,986 (5.6%)	73188	71514	71575
+2016_2017_	landlord	A4	Vary Rent Reduction Amount	134 (0.2%)	76 (0.1%)	135 (0.2%)	73188	71514	71575
+2016_2017_	landlord	L1	Terminate & Evict for Non-Payment of Rent	49,489 (67.6%)	48,940 (68.4%)	49,991 (70.0%)	73188	71514	71575
+2016_2017_	landlord	L2	Terminate for Other Reasons & Evict	9,987 (13.6%)	8,876 (12.4%)	7,983 (11.2%)	73188	71514	71575
+2016_2017_	landlord	L3	Termination - Tenant Gave Notice or Agreed	1,439 (2.0%)	1,338 (1.9%)	1,208 (1.7%)	73188	71514	71575
+2016_2017_	landlord	L4	Terminate the Tenancy - Failed Settlement	5,478 (7.5%)	5,559 (7.8%)	5,632 (7.9%)	73188	71514	71575
+2016_2017_	landlord	L5	Rent Increase Above the Guideline	575 (0.8%)	433 (0.6%)	548 (0.8%)	73188	71514	71575
+2016_2017_	landlord	L6	Review of Provincial Work Order	3 (0.0%)	15 (0.0%)	8 (0.0%)	73188	71514	71575
+2016_2017_	landlord	L7	Transfer Tenant to Care Home	1 (0.0%)	6 (0.0%)	0 (0.0%)	73188	71514	71575
+2016_2017_	landlord	L8	Tenant Changed Locks	37 (0.0%)	28 (0.0%)	31 (0.0%)	73188	71514	71575
+2016_2017_	landlord	L9	Application to Collect Rent	1,628 (2.2%)	1,892 (2.6%)	1,735 (2.4%)	73188	71514	71575
+2016_2017_	tenant	A1	Determine Whether the Act Applies	49 (0.6%)	64 (0.8%)	59 (0.7%)	8244	8228	7957
+2016_2017_	tenant	A2	Sublet or Assignment	55 (0.7%)	68 (0.8%)	55 (0.7%)	8244	8228	7957
+2016_2017_	tenant	A3	Combined Application	1,634 (19.8%)	1,586 (19.3%)	1,921 (24.1%)	8244	8228	7957
+2016_2017_	tenant	A4	Vary Rent Reduction Amount	0 (0.0%)	0 (0.0%)	0 (0.0%)	8244	8228	7957
+2016_2017_	tenant	T1	Rent Rebate (e.g. illegal rent)	732 (8.9%)	663 (8.1%)	716 (9.0%)	8244	8228	7957
+2016_2017_	tenant	T2	Tenant Rights	3,807 (46.1%)	3,922 (47.7%)	3,441 (43.2%)	8244	8228	7957
+2016_2017_	tenant	T3	Rent Reduction	68 (0.8%)	67 (0.8%)	69 (0.9%)	8244	8228	7957
+2016_2017_	tenant	T4	Failed Rent Increase Above Guideline	6 (0.0%)	0 (0.0%)	1 (0.0%)	8244	8228	7957
+2016_2017_	tenant	T5	Bad Faith Notice of Termination	211 (2.6%)	174 (2.1%)	170 (2.1%)	8244	8228	7957
+2016_2017_	tenant	T6	Maintenance	1,675 (20.3%)	1,661 (20.2%)	1,516 (19.1%)	8244	8228	7957
+2016_2017_	tenant	T7	Suite Meters	7 (0.0%)	23 (0.3%)	9 (0.0%)	8244	8228	7957
+2017_2018_	landlord	A1	Determine Whether the Act Applies	96 (0.1%)	104 (0.1%)	67 (0.1%)	72511	73206	71514
+2017_2018_	landlord	A2	Sublet or Assignment	332 (0.5%)	264 (0.3%)	234 (0.3%)	72511	73206	71514
+2017_2018_	landlord	A3	Combined Application (usually includes an L1)	3,878 (5.3%)	4,067 (5.6%)	4,050 (5.7%)	72511	73206	71514
+2017_2018_	landlord	A4	Vary Rent Reduction Amount	220 (0.3%)	134 (0.2%)	76 (0.1%)	72511	73206	71514
+2017_2018_	landlord	L1	Terminate & Evict for Non-Payment of Rent	47,595 (65.6%)	49,489 (67.6%)	48,940 (68.4%)	72511	73206	71514
+2017_2018_	landlord	L2	Terminate for Other Reasons & Evict	11,404 (15.7%)	9,987 (13.6%)	8,876 (12.4%)	72511	73206	71514
+2017_2018_	landlord	L3	Termination - Tenant Gave Notice or Agreed	1,622 (2.2%)	1,439 (2.0%)	1,338 (1.9%)	72511	73206	71514
+2017_2018_	landlord	L4	Terminate the Tenancy - Failed Settlement	5,552 (7.7%)	5,478 (7.5%)	5,559 (7.8%)	72511	73206	71514
+2017_2018_	landlord	L5	Rent Increase Above the Guideline	559 (0.8%)	575 (0.8%)	433 (0.6%)	72511	73206	71514
+2017_2018_	landlord	L6	Review of Provincial Work Order	5 (0.0%)	3 (0.0%)	15 (0.0%)	72511	73206	71514
+2017_2018_	landlord	L7	Transfer Tenant to Care Home	1 (0.0%)	1 (0.0%)	6 (0.0%)	72511	73206	71514
+2017_2018_	landlord	L8	Tenant Changed Locks	29 (0.0%)	37 (0.0%)	28 (0.0%)	72511	73206	71514
+2017_2018_	landlord	L9	Application to Collect Rent	1,218 (1.7%)	1,628 (2.2%)	1,892 (2.6%)	72511	73206	71514
+2017_2018_	tenant	A1	Determine Whether the Act Applies	91 (1.2%)	49 (0.6%)	64 (0.8%)	7738	8244	8228
+2017_2018_	tenant	A2	Sublet or Assignment	57 (0.7%)	55 (0.7%)	68 (0.8%)	7738	8244	8228
+2017_2018_	tenant	A3	Combined Application	1,798 (23.2%)	1,634 (19.8%)	1,586 (19.3%)	7738	8244	8228
+2017_2018_	tenant	A4	Vary Rent Reduction Amount	2 (0.0%)	0 (0.0%)	0 (0.0%)	7738	8244	8228
+2017_2018_	tenant	T1	Rent Rebate (e.g. illegal rent)	765 (9.9%)	732 (8.9%)	663 (8.1%)	7738	8244	8228
+2017_2018_	tenant	T2	Tenant Rights	2,832 (36.6%)	3,807 (46.1%)	3,922 (47.7%)	7738	8244	8228
+2017_2018_	tenant	T3	Rent Reduction	71 (0.9%)	68 (0.8%)	67 (0.8%)	7738	8244	8228
+2017_2018_	tenant	T4	Failed Rent Increase Above Guideline	3 (0.0%)	6 (0.0%)	0 (0.0%)	7738	8244	8228
+2017_2018_	tenant	T5	Bad Faith Notice of Termination	295 (3.8%)	211 (2.6%)	174 (2.1%)	7738	8244	8228
+2017_2018_	tenant	T6	Maintenance	1,818 (23.5%)	1,675 (20.3%)	1,661 (20.2%)	7738	8244	8228
+2017_2018_	tenant	T7	Suite Meters	6 (0.1%)	7 (0.0%)	23 (0.3%)	7738	8244	8228
+2018_2019_	landlord	A1	Determine whether the act applies	126 (0.2%)	96 (0.1%)	104 (0.1%)	73738	72511	73206
+2018_2019_	landlord	A2	Sublet or assignment	378 (0.5%)	332 (0.5%)	264 (0.3%)	73738	72511	73206
+2018_2019_	landlord	A3	Combined application (usually includes an L1)	3,632 (4.9%)	3878 (5.3%)	4,067 (5.6%)	73738	72511	73206
+2018_2019_	landlord	A4	Vary rent reduction amount	173 (0.2%)	220 (0.3%)	134 (0.2%)	73738	72511	73206
+2018_2019_	landlord	L1	Terminate & evict for non-payment of rent	46,043 (62.4%)	47,595 (65.6%)	49,489 (67.6%)	73738	72511	73206
+2018_2019_	landlord	L2	Terminate for other reasons and evict	13,945 (18.9%)	11,404 (15.7%)	9,987 (13.6%)	73738	72511	73206
+2018_2019_	landlord	L3	Termination - tenant gave notice or agreed	1,711 (2.3%)	1,622 (2.2%)	1,439 (2.0%)	73738	72511	73206
+2018_2019_	landlord	L4	Terminate the tenancy - failed settlement	5,571 (7.6%)	5,552 (7.7%)	5,478 (7.5%)	73738	72511	73206
+2018_2019_	landlord	L5	Rent increase above the guideline	717 (1.0%)	559 (0.8%)	575 (0.8%)	73738	72511	73206
+2018_2019_	landlord	L6	Review of provincial work order	4 (0.0%)	5 (0.0%)	3 (0.0%)	73738	72511	73206
+2018_2019_	landlord	L7	Transfer tenant to care home	5 (0.0%)	1 (0.0%)	1 (0.0%)	73738	72511	73206
+2018_2019_	landlord	L8	Tenant changed locks	39 (0.1%)	29 (0.0%)	37 (0.0%)	73738	72511	73206
+2018_2019_	landlord	L9	Application to collect rent	1,394 (1.9%)	1,218 (1.7%)	1,628 (2.2%)	73738	72511	73206
+2018_2019_	tenant	A1	Determine whether the act applies	116(1.4%)	91 (1.2%)	49 (0.6%)	8357	7738	8244
+2018_2019_	tenant	A2	Sublet or assignment	66 (0.8%)	57 (0.7%)	55 (0.7%)	8357	7738	8244
+2018_2019_	tenant	A3	Combined application	1,780 (21.3%)	1,798 (23.2%)	1,634 (19.8%)	8357	7738	8244
+2018_2019_	tenant	A4	Vary rent reduction amount	1 (0.0%)	2 (0.0%)	0 (0.0%)	8357	7738	8244
+2018_2019_	tenant	T1	Rent rebate (e.g. illegal rent)	863 (10.3%)	765 (9.9%)	732 (8.9%)	8357	7738	8244
+2018_2019_	tenant	T2	Tenant rights	3,053 (36.5%)	2,832 (36.6%)	3,807 (46.1%)	8357	7738	8244
+2018_2019_	tenant	T3	Rent reduction	148 (1.8%)	71 (0.9%)	68 (0.8%)	8357	7738	8244
+2018_2019_	tenant	T4	Failed rent increase above guideline	1 (0.0%)	3 (0.0%)	6 (0.0%)	8357	7738	8244
+2018_2019_	tenant	T5	Bad faith notice of termination	355 (4.2%)	295 (3.8%)	211 (2.6%)	8357	7738	8244
+2018_2019_	tenant	T6	Maintenance	1,970 (23.6%)	1,818 (23.5%)	1,675 (20.3%)	8357	7738	8244
+2018_2019_	tenant	T7	Suite meters	4 (0.1%)	6 (0.1%)	7 (0.0%)	8357	7738	8244
+2019_2020_	landlord	A1	Determine whether the act applies	102	126	96	72752	73738	72511
+2019_2020_	landlord	A2	Sublet or assignment	491	378	332	72752	73738	72511
+2019_2020_	landlord	A3	Combined application (usually includes an L1)	2986	3362	3878	72752	73738	72511
+2019_2020_	landlord	A4	Vary rent reduction amount	86	173	220	72752	73738	72511
+2019_2020_	landlord	L1	Terminate & evict for non-payment of rent	44621	46043	47595	72752	73738	72511
+2019_2020_	landlord	L2	Terminate for other reasons and evict	15732	13945	11404	72752	73738	72511
+2019_2020_	landlord	L3	Termination � tenant gave notice or agreed	1877	1711	1622	72752	73738	72511
+2019_2020_	landlord	L4	Terminate the tenancy � failed settlement	5156	5571	5552	72752	73738	72511
+2019_2020_	landlord	L5	Rent increase above the guideline	758	717	559	72752	73738	72511
+2019_2020_	landlord	L6	Review of provincial work order	1	4	5	72752	73738	72511
+2019_2020_	landlord	L7	Transfer tenant to care home	1	5	1	72752	73738	72511
+2019_2020_	landlord	L8	Tenant changed locks	41	39	29	72752	73738	72511
+2019_2020_	landlord	L9	Application to collect rent	900	1394	1218	72752	73738	72511
+2019_2020_	tenant	A1	Determine whether the act applies	85	116	91	8122	8357	7738
+2019_2020_	tenant	A2	Sublet or assignment	62	66	57	8122	8357	7738
+2019_2020_	tenant	A3	Combined application	1610	1780	1798	8122	8357	7738
+2019_2020_	tenant	A4	Vary rent reduction amount	0	1	2	8122	8357	7738
+2019_2020_	tenant	T1	Rent rebate (e.g. illegal rent)	884	863	765	8122	8357	7738
+2019_2020_	tenant	T2	Tenant rights	3072	3053	2832	8122	8357	7738
+2019_2020_	tenant	T3	Rent reduction	78	148	71	8122	8357	7738
+2019_2020_	tenant	T4	Failed rent increase above guideline	4	1	3	8122	8357	7738
+2019_2020_	tenant	T5	Bad faith notice of termination	408	355	295	8122	8357	7738
+2019_2020_	tenant	T6	Maintenance	1914	1970	1818	8122	8357	7738
+2019_2020_	tenant	T7	Suite meters	5	4	6	8122	8357	7738
+2020_2021_	landlord	A1	Determine whether the act applies	96	102	126	41647	72752	73738
+2020_2021_	landlord	A2	Sublet or assignment	383	491	378	41647	72752	73738
+2020_2021_	landlord	A3	Combined application (usually includes an L1)	1065	2986	3362	41647	72752	73738
+2020_2021_	landlord	A4	Vary rent reduction amount	109	86	173	41647	72752	73738
+2020_2021_	landlord	L1	Terminate & evict for non-payment of rent	24481	44621	46043	41647	72752	73738
+2020_2021_	landlord	L2	Terminate for other reasons and evict	11031	15732	13945	41647	72752	73738
+2020_2021_	landlord	L3	Termination – tenant gave notice or agreed	1391	1877	1711	41647	72752	73738
+2020_2021_	landlord	L4	Terminate the tenancy – failed settlement	1551	5156	5571	41647	72752	73738
+2020_2021_	landlord	L5	Rent increase above the guideline	404	758	717	41647	72752	73738
+2020_2021_	landlord	L6	Review of provincial work order	1	1	4	41647	72752	73738
+2020_2021_	landlord	L7	Transfer tenant to care home	6	1	5	41647	72752	73738
+2020_2021_	landlord	L8	Tenant changed locks	25	41	39	41647	72752	73738
+2020_2021_	landlord	L9	Application to collect rent	1104	900	1394	41647	72752	73738
+2020_2021_	tenant	A1	Determine whether the act applies	64	85	116	6775	8122	8357
+2020_2021_	tenant	A2	Sublet or assignment	74	62	66	6775	8122	8357
+2020_2021_	tenant	A3	Combined application	583	1610	1780	6775	8122	8357
+2020_2021_	tenant	A4	Vary rent reduction amount	1	0	1	6775	8122	8357
+2020_2021_	tenant	T1	Rent rebate (e.g., illegal rent)	718	884	863	6775	8122	8357
+2020_2021_	tenant	T2	Tenant rights	3145	3072	3053	6775	8122	8357
+2020_2021_	tenant	T3	Rent reduction	68	78	148	6775	8122	8357
+2020_2021_	tenant	T4	Failed rent increase above guideline	4	4	1	6775	8122	8357
+2020_2021_	tenant	T5	Bad faith notice of termination	316	408	355	6775	8122	8357
+2020_2021_	tenant	T6	Maintenance	1795	1914	1970	6775	8122	8357
+2020_2021_	tenant	T7	Suite meters	7	5	4	6775	8122	8357

@@ -1,0 +1,100 @@
+office	year	cases_received	cases_resolved	notes
+Central_Mississauga	2010_2011_	9287.16	missing	0.12
+Eastern_Ottawa	2010_2011_	9287.16	missing	0.12
+Northern_Sudbury	2010_2011_	3095.72	missing	0.04
+Southern_Hamilton	2010_2011_	10061.09	missing	0.13
+SouthWest_London	2010_2011_	12382.88	missing	0.16
+TOEast	2010_2011_	10061.09	missing	0.13
+TONorth	2010_2011_	12382.88	missing	0.16
+TOSouth	2010_2011_	10835.02	missing	0.14
+HeadOffice_Toronto	2010_2011_	notapplicable	notapplicable	TOTAL:77393
+Central_Mississauga	2011_2012_	9416	9369	
+Eastern_Ottawa	2011_2012_	8154	8096	
+Northern_Sudbury	2011_2012_	3491	3454	
+Southern_Hamilton	2011_2012_	10862	10694	
+SouthWest_London	2011_2012_	13001	12700	
+TOEast	2011_2012_	10977	11142	
+TONorth	2011_2012_	13470	13449	
+TOSouth	2011_2012_	11717	12164	
+HeadOffice_Toronto	2011_2012_	notapplicable	notapplicable	"When the system is unable to match the postal code to a region in an e-Filed application, it is assigned to ""Head Office""; started in 2015-2016"
+Central_Mississauga	2012_2013_	missing	missing	
+Eastern_Ottawa	2012_2013_	missing	missing	
+Northern_Sudbury	2012_2013_	missing	missing	
+Southern_Hamilton	2012_2013_	missing	missing	
+SouthWest_London	2012_2013_	missing	missing	
+TOEast	2012_2013_	missing	missing	
+TONorth	2012_2013_	missing	missing	
+TOSouth	2012_2013_	missing	missing	
+HeadOffice_Toronto	2012_2013_	notapplicable	notapplicable	
+Central_Mississauga	2013_2014_	8820	8904	
+Eastern_Ottawa	2013_2014_	8329	8267	
+Northern_Sudbury	2013_2014_	3713	3720	
+Southern_Hamilton	2013_2014_	11392	11346	
+SouthWest_London	2013_2014_	13488	13146	
+TOEast	2013_2014_	11191	11509	
+TONorth	2013_2014_	13112	13225	
+TOSouth	2013_2014_	11703	12009	
+HeadOffice_Toronto	2013_2014_	notapplicable	notapplicable	
+Central_Mississauga	2014_2015_	8963	missing	
+Eastern_Ottawa	2014_2015_	8370	missing	
+Northern_Sudbury	2014_2015_	3829	missing	
+Southern_Hamilton	2014_2015_	10947	missing	
+SouthWest_London	2014_2015_	13500	missing	
+TOEast	2014_2015_	10798	missing	
+TONorth	2014_2015_	12169	missing	
+TOSouth	2014_2015_	10956	missing	
+HeadOffice_Toronto	2014_2015_	notapplicable	notapplicable	
+Central_Mississauga	2015_2016_	8793	missing	
+Eastern_Ottawa	2015_2016_	8395	missing	
+Northern_Sudbury	2015_2016_	4131	missing	
+Southern_Hamilton	2015_2016_	10913	missing	
+SouthWest_London	2015_2016_	14271	missing	
+TOEast	2015_2016_	10521	missing	
+TONorth	2015_2016_	11557	missing	
+TOSouth	2015_2016_	10663	missing	
+HeadOffice_Toronto	2015_2016_	498	missing	
+Central_Mississauga	2016_2017_	8244	missing	
+Eastern_Ottawa	2016_2017_	3952	missing	
+Northern_Sudbury	2016_2017_	11680	missing	
+Southern_Hamilton	2016_2017_	14132	missing	
+SouthWest_London	2016_2017_	11002	missing	
+TOEast	2016_2017_	11609	missing	
+TONorth	2016_2017_	11222	missing	
+TOSouth	2016_2017_	8774	missing	
+HeadOffice_Toronto	2016_2017_	8774	missing	
+Central_Mississauga	2017_2018_	9005	missing	
+Eastern_Ottawa	2017_2018_	8477	missing	
+Northern_Sudbury	2017_2018_	4088	missing	
+Southern_Hamilton	2017_2018_	10969	missing	
+SouthWest_London	2017_2018_	13777	missing	
+TOEast	2017_2018_	10731	missing	
+TONorth	2017_2018_	11380	missing	
+TOSouth	2017_2018_	10522	missing	
+HeadOffice_Toronto	2017_2018_	1300	missing	
+Central_Mississauga	2018_2019_	missing	missing	
+Eastern_Ottawa	2018_2019_	missing	missing	
+Northern_Sudbury	2018_2019_	missing	missing	
+Southern_Hamilton	2018_2019_	missing	missing	
+SouthWest_London	2018_2019_	missing	missing	
+TOEast	2018_2019_	missing	missing	
+TONorth	2018_2019_	missing	missing	
+TOSouth	2018_2019_	missing	missing	
+HeadOffice_Toronto	2018_2019_	missing	missing	
+Central_Mississauga	2019_2020_	missing	missing	
+Eastern_Ottawa	2019_2020_	missing	missing	
+Northern_Sudbury	2019_2020_	missing	missing	
+Southern_Hamilton	2019_2020_	missing	missing	
+SouthWest_London	2019_2020_	missing	missing	
+TOEast	2019_2020_	missing	missing	
+TONorth	2019_2020_	missing	missing	
+TOSouth	2019_2020_	missing	missing	
+HeadOffice_Toronto	2019_2020_	missing	missing	
+Central_Mississauga	2020_2021_	missing	missing	
+Eastern_Ottawa	2020_2021_	missing	missing	
+Northern_Sudbury	2020_2021_	missing	missing	
+Southern_Hamilton	2020_2021_	missing	missing	
+SouthWest_London	2020_2021_	missing	missing	
+TOEast	2020_2021_	missing	missing	
+TONorth	2020_2021_	missing	missing	
+TOSouth	2020_2021_	missing	missing	
+HeadOffice_Toronto	2020_2021_	missing	missing	
